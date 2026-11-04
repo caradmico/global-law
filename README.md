@@ -1,3 +1,5 @@
+> **About this fork (caradmico/global-law).** What it does today: it's an unmodified mirror of upstream lexifina/global-law, with every upstream jurisdiction's law as git history, tools/mcp_server.py for AI queries, and the US Code titles upstream covers. The UCMJ (10 U.S.C. ch. 47) is not here yet. It's planned as caradmico/ucmj-history (ticket t_f16a2c9f9b61), and this note will be updated when it lands. Credit: upstream content is CC0, and its commit structure is CC BY 4.0.
+
 # Git for Global Law
 
 **The world's law in one git history. Every word traced to the law that wrote it for any country and any date.**
